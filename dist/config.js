@@ -1,6 +1,6 @@
 import { ethers } from "ethers";
 // Create a Signer and connect it to a Provider on the sending chain
-const privateKey = "d5737aa22767840e7943a2883560c276794d723e77f811e7bd86d835934dd674";
+const privateKey = "";
 let signer = new ethers.Wallet(privateKey);
 // https://rpc-mumbai.matic.today/
 // https://rpc-mumbai.maticvigil.com/
